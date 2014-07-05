@@ -8,3 +8,7 @@ Useful stuff under the sun
 
 Open a new terminal:  Ctrl+Alt+F2
 Close the terminal: 
+
+
+##### HADOOP
+Set JAVA_HOME in hadoop_env.sh at /home/etc/hadoop/conf/
