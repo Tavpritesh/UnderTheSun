@@ -1,4 +1,4 @@
-### To test the correlation between ordinal variables 
+1. ### To test the correlation between ordinal variables 
 
 * The first case is to assume that the ordinal variables are a result of continuously distributed latent factors for which polychoric correlation is suitable. See the link here:- 
 http://en.wikipedia.org/wiki/Polychoric_correlation
