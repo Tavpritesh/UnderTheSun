@@ -5,3 +5,5 @@ http://en.wikipedia.org/wiki/Polychoric_correlation
 
 * The second is a linear by linear correlation test (details to be read) as implemented in the package coin 
 http://stats.stackexchange.com/questions/28094/relation-between-two-ordinal-variables
+* Finally the one found most useful was:-
+http://stackoverflow.com/questions/19506180/polychoric-correlation-matrix-with-significance-in-r
