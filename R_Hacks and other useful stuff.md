@@ -8,12 +8,6 @@ http://stats.stackexchange.com/questions/28094/relation-between-two-ordinal-vari
 * Finally the one found most useful was:-
 http://stackoverflow.com/questions/19506180/polychoric-correlation-matrix-with-significance-in-r
 
-
-
-
-
-
-
 2. ### Class notes from Phil Spector, Stats Berkeley
 
 *http://www.stat.berkeley.edu/classes/s133/
